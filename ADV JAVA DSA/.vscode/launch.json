@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Contain_With_Most_Water",
+            "request": "launch",
+            "mainClass": "Contain_With_Most_Water",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BFS_AND_DFS",
+            "request": "launch",
+            "mainClass": "BFS_AND_DFS",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "Bredth_First_Search",
+            "request": "launch",
+            "mainClass": "Bredth_First_Search",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "DFS",
+            "request": "launch",
+            "mainClass": "DFS",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "Delete_A_Node_In_BST_TRE",
+            "request": "launch",
+            "mainClass": "Delete_A_Node_In_BST_TRE",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "Prinntallpath",
+            "request": "launch",
+            "mainClass": "Prinntallpath",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "Print_In_Range",
+            "request": "launch",
+            "mainClass": "Print_In_Range",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "Print_Root_To_Leaf_Path",
+            "request": "launch",
+            "mainClass": "Print_Root_To_Leaf_Path",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "Weighted_Graph_print",
+            "request": "launch",
+            "mainClass": "Weighted_Graph_print",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "first_java_program",
+            "request": "launch",
+            "mainClass": "first_java_program",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "pr",
+            "request": "launch",
+            "mainClass": "pr",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        },
+        {
+            "type": "java",
+            "name": "print_the_graph",
+            "request": "launch",
+            "mainClass": "print_the_graph",
+            "projectName": "ADV JAVA DSA_a0bf5e39"
+        }
+    ]
+}
